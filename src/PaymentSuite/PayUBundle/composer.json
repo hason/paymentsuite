@@ -22,7 +22,7 @@
         "symfony/config": ">=2.2.3",
         "symfony/http-kernel": ">=2.2.3",
         "symfony/dependency-injection": ">=2.2.3",
-        "twig/twig": "~1.11",
+        "twig/twig": "~3.14",
         "paymentsuite/payment-core-bundle": "~1.1"
     },
     "autoload": {
